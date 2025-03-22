@@ -1,3 +1,6 @@
+![Soundness Image](https://github.com/0xAJPanda/Soundness/blob/main/soundness.jpg)
+
+
 # Soundness Testnet Registration (NO VPS REQUIRED)
 
 **About Soundness Layer**  
