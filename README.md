@@ -66,6 +66,8 @@ soundness-cli export-key --name my-key
 [https://discord.gg/ZrCbgE2q](https://discord.gg/ZrCbgE2q)  
 Go to **#Testnet-access** and submit your **Pub-Key**.
 
+The registration will reopen soon so get your pub-key ready, join the discord and wait for the annoucement. 
+
 ## Done!
 
 ### Additional Details
