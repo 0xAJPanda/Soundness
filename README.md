@@ -7,7 +7,7 @@
 Soundness Layer is a **decentralized verification layer** that aims to dramatically reduce **on-chain costs** for verifying Zero-Knowledge Proofs (ZKPs) while ensuring **fast finality** and **censorship resistance**. By leveraging **parallel execution** (Sui), **Move’s secure contracts**, and **Walrus’s decentralized storage**, Soundness Layer supports a wide range of use cases—from zk-Rollups to zkApps—without sacrificing performance or decentralization.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xAJPanda/Soundness/main/backed.jpg" alt="Backed Image" width="60%" style="border-radius:5px;" />
+  <img src="https://raw.githubusercontent.com/0xAJPanda/Soundness/main/backed.jpg" alt="Backed Image" width="80%" style="border-radius:5px;" />
 </p>
 
 
