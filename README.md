@@ -12,6 +12,11 @@ Soundness Layer is a **decentralized verification layer** that aims to dramatica
 - **Shared Economic Security**: Validators re-stake assets across multiple blockchains.  
 - **Cross-Chain Interoperability**: Proofs efficiently verified across different networks using decentralized data availability.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xAJPanda/Soundness/main/backed.jpg" alt="Backed Image" width="300" />
+</p>
+
+
 ---
 
 ## Steps to Register for the Soundness Testnet
@@ -23,6 +28,7 @@ Soundness Layer is a **decentralized verification layer** that aims to dramatica
 2. **Create a Repo on GitHub & Launch a Codespace**  
    [http://github.com/codespaces](http://github.com/codespaces)  
    Open a terminal in your Codespace and run the following commands:
+
 
 ```bash
 sudo apt update && sudo apt upgrade -y
